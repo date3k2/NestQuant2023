@@ -1,0 +1,2 @@
+# NestQuant 2023
+A financial data processing and predicting project (crypto, stocks, etc.) focused on risk prediction, part of the NestQuant initiative organized by Hanoi University of Science and Technology (HUST).
